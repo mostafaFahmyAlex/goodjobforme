@@ -1,0 +1,68 @@
+
+---Downloaded files---
+The import files for: Job Stack Theme were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wordpress
+Data file = C:\xampp\htdocs\wordpress/wp-content/uploads/2023/03/demo-content-import-file_2023-03-21__17-32-40.xml
+Widget file = C:\xampp\htdocs\wordpress/wp-content/uploads/2023/03/demo-widgets-import-file_2023-03-21__17-32-40.json
+Customizer file = C:\xampp\htdocs\wordpress/wp-content/uploads/2023/03/demo-customizer-import-file_2023-03-21__17-32-40.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import job_listing_category Design
+[WARNING] Failed to import job_listing_category Development
+[WARNING] Failed to import job_listing_category Marketify
+[WARNING] Failed to import job_listing_category Sales
+
+
+------
+New AJAX call!
+[WARNING] Failed to import job_listing_category Design
+[WARNING] Failed to import job_listing_category Development
+[WARNING] Failed to import job_listing_category Marketify
+[WARNING] Failed to import job_listing_category Sales
+
+
+------
+New AJAX call!
+[WARNING] Failed to import job_listing_category Design
+[WARNING] Failed to import job_listing_category Development
+[WARNING] Failed to import job_listing_category Marketify
+[WARNING] Failed to import job_listing_category Sales
+
+
+------
+New AJAX call!
+[WARNING] Failed to import job_listing_category Design
+[WARNING] Failed to import job_listing_category Development
+[WARNING] Failed to import job_listing_category Marketify
+[WARNING] Failed to import job_listing_category Sales
+
+
+---Importing widgets---
+Sidebar : 
+
+Recent Jobs - Recent Jobs - Imported
+
+job_stack Footer Widget1 : 
+
+Text - Espy Jobs - Imported
+
+job_stack Footer Widget2 : 
+
+Pages - Site Map - Imported
+
+job_stack Footer Widget3 : 
+
+Recent Posts - Recent News Articles - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

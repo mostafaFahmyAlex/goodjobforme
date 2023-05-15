@@ -1,0 +1,468 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Job Stack\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-25 04:54+0000\n"
+"PO-Revision-Date: 2022-12-25 04:54+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: job-stack"
+
+#: functions.php:52
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:129
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:131
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:140
+msgid "job_stack Footer Widget"
+msgstr ""
+
+#: functions.php:142
+msgid "Shows Widgets in Footer"
+msgstr ""
+
+#: functions.php:199
+msgctxt "Plus Jakarta Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:202
+msgctxt "Work Sans: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:315
+msgid "Add Footer Widget"
+msgstr ""
+
+#: 404.php:22
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:26
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:35
+msgid "Most Used Categories"
+msgstr ""
+
+#. %1$s: smiley
+#: 404.php:53
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#. 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#. %s: search query.
+#: search.php:27
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: header.php:42
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:118
+msgid "Close Menu"
+msgstr ""
+
+#. Name of the theme
+#: footer.php:55
+msgid "Job Stack"
+msgstr ""
+
+#: footer.php:55
+msgid " By Flawless Themes."
+msgstr ""
+
+#: footer.php:55
+msgid "Powered By WordPress"
+msgstr ""
+
+#: single.php:36 single.php:79
+msgid "Previous:"
+msgstr ""
+
+#: single.php:37 single.php:80
+msgid "Next:"
+msgstr ""
+
+#: inc/job-stack-menu.php:372
+msgid "Add a menu"
+msgstr ""
+
+#: inc/customizer.php:48
+msgid "Show Title & Tagline"
+msgstr ""
+
+#: inc/customizer.php:57
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer.php:68
+msgid "Header Section"
+msgstr ""
+
+#: inc/customizer.php:83
+msgid "Button Text"
+msgstr ""
+
+#: inc/customizer.php:98
+msgid "Button Link"
+msgstr ""
+
+#: inc/customizer.php:113
+msgid "Banner Section"
+msgstr ""
+
+#: inc/customizer.php:129
+msgid "Banner Title"
+msgstr ""
+
+#: inc/customizer.php:146 inc/customizer.php:226 inc/customizer.php:310
+msgid "Section Description"
+msgstr ""
+
+#: inc/customizer.php:163 inc/customizer.php:418
+msgid "Add Background Image"
+msgstr ""
+
+#: inc/customizer.php:175
+msgid "Job Category Section"
+msgstr ""
+
+#: inc/customizer.php:192
+msgid "Show Job Category Section"
+msgstr ""
+
+#: inc/customizer.php:209 inc/customizer.php:293 inc/customizer.php:465
+#: inc/customizer.php:532
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer.php:248
+msgid "Hide Category with no Jobs?"
+msgstr ""
+
+#: inc/customizer.php:259
+msgid "Job Section"
+msgstr ""
+
+#: inc/customizer.php:276
+msgid "Show Job Section"
+msgstr ""
+
+#: inc/customizer.php:321
+msgid "Call to Action Section"
+msgstr ""
+
+#: inc/customizer.php:339
+msgid "Show CTA Section"
+msgstr ""
+
+#: inc/customizer.php:354
+msgid "Title"
+msgstr ""
+
+#: inc/customizer.php:369
+msgid "Description"
+msgstr ""
+
+#: inc/customizer.php:384
+msgid "CTA Button Text"
+msgstr ""
+
+#: inc/customizer.php:399
+msgid "CTA Button Link"
+msgstr ""
+
+#: inc/customizer.php:431 inc/customizer.php:498
+msgid "Blog Section"
+msgstr ""
+
+#: inc/customizer.php:448 inc/customizer.php:515
+msgid "Show Blog Section"
+msgstr ""
+
+#: inc/customizer.php:482 inc/customizer.php:549
+msgid "Blog Section Description"
+msgstr ""
+
+#: inc/customizer.php:567
+msgid "Select Blog Category"
+msgstr ""
+
+#: inc/customizer.php:581
+msgid "Archive Blog Cards"
+msgstr ""
+
+#: inc/customizer.php:597
+msgid "Show Featured Image in Blog Cards and Single Posts Page"
+msgstr ""
+
+#: inc/customizer.php:615
+msgid "Show Date Meta in Blog Cards and Single Posts Page"
+msgstr ""
+
+#: inc/customizer.php:634
+msgid "Show Author Meta in Blog Cards and Single Posts Page"
+msgstr ""
+
+#: inc/customizer.php:653
+msgid "Show Excerpts in Blog Cards"
+msgstr ""
+
+#: inc/customizer.php:664
+msgid "Single Posts"
+msgstr ""
+
+#: inc/customizer.php:680
+msgid "Show Sidebar in Single Posts Page"
+msgstr ""
+
+#: inc/customizer.php:692
+msgid "Preloader"
+msgstr ""
+
+#: inc/customizer.php:708
+msgid "Show Pre-Loader"
+msgstr ""
+
+#: inc/customizer.php:722
+msgid "Prefooter Section"
+msgstr ""
+
+#: inc/customizer.php:739
+msgid "Show Prefooter Section"
+msgstr ""
+
+#: inc/customizer.php:740
+msgid "Copyright text can be changed in Premium Version only"
+msgstr ""
+
+#: inc/customizer-control.php:29
+msgid "Only 3 Latest Blog Posts will be shown from the choosen Category)"
+msgstr ""
+
+#: inc/customizer-control.php:31
+msgid "None"
+msgstr ""
+
+#: inc/customizer-control.php:54
+msgid "Select Category"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:30
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:46
+#, php-format
+msgctxt "post author"
+msgid "By %s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:63
+msgid ", "
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:66
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:70
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:73
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:83
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:100 template-parts/content-page.php:39
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: job_manager/content-job_listing.php:67
+msgid "Apply Now"
+msgstr ""
+
+#: job_manager/job-submit.php:24
+#, php-format
+msgid "You are editing an existing job. %s"
+msgstr ""
+
+#: job_manager/job-submit.php:24
+msgid "Create A New Job"
+msgstr ""
+
+#: job_manager/job-submit.php:42 job_manager/job-submit.php:66
+msgid "(optional)"
+msgstr ""
+
+#: job_manager/job-submit.php:56
+msgid "Company Details"
+msgstr ""
+
+#: job_manager/job-submit.php:89
+msgid "Save Draft"
+msgstr ""
+
+#. Name of the template
+msgid "Front Template"
+msgstr ""
+
+#. Name of the template
+msgid "Fullwidth Template"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:25 template-parts/content.php:64
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:60
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/content-search.php:42
+msgid "Read More"
+msgstr ""
+
+#: lib/job-stack-tgmp.php:65
+msgid "One Click Demo Import"
+msgstr ""
+
+#: lib/job-stack-tgmp.php:71
+msgid "Flawless Themes Demo Import"
+msgstr ""
+
+#: lib/job-stack-tgmp.php:77
+msgid "WP Job Manager"
+msgstr ""
+
+#: lib/job-stack-tgmp.php:84
+msgid "Regions for WP Job Manager"
+msgstr ""
+
+#: lib/job-stack-tgmp.php:91
+msgid "WP Job Manager - Job Type Colors"
+msgstr ""
+
+#: template-parts/homepage/banner-section.php:52
+#: template-parts/homepage/banner-section.php:53
+msgid "Job Titles, Keywords, Phrase"
+msgstr ""
+
+#: template-parts/homepage/banner-section.php:59
+msgid "Job Region"
+msgstr ""
+
+#: template-parts/homepage/banner-section.php:61
+msgid "All Regions"
+msgstr ""
+
+#: template-parts/homepage/banner-section.php:72
+msgid "All Location"
+msgstr ""
+
+#: template-parts/homepage/blog-section.php:88
+msgid "Read More >"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Crafting the ideal job board website need not be a complication. Job Stack "
+"WordPress Theme is the best Job Board WordPress Theme you can currently get "
+"your hands on. Start building your cracking job board website with Job Stack "
+"and take advantage of all the benefits it has in store for you. Job Stack is "
+"built with the WP Job Manager plugin, so it comes packed with lots of "
+"features like the ability to live search and filter available jobs. So If "
+"you’re preparing to launch a WordPress based job board, Job Stack is the "
+"best option for you. View Demo at https://demo.flawlessthemes.com/jobstack/"
+msgstr ""
+
+#. Author of the theme
+msgid "flawlessthemes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://flawlessthemes.com/"
+msgstr ""
